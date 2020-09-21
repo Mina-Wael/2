@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Re1_shapes</string>
+   <string-array name="shapes">
+       <item>rectangle</item>
+       <item>circle</item>
+       <item>triangle</item>
+
+   </string-array>
+
+</resources>
